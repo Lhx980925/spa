@@ -1,0 +1,30 @@
+h1 {
+  background-color:green;
+}
+
+#calculate {
+  width:70px;
+  margin-left:63px;
+}
+
+input,label,span{
+  margin:5px 0;
+  padding-left:5px;
+  font-size:1em;
+}
+
+span{
+  color:red;
+}
+
+.main{
+  width:370px;
+  margin:50px auto;
+  font-size:1.1em;
+}
+
+#width-validation-message,#height-validation-message{
+  color:red;
+  margin-left:63px;
+  font-size:0.8em;
+}
